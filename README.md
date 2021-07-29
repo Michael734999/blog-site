@@ -1,0 +1,1 @@
+This is a blog website that I created using html, css and javascript.
