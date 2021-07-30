@@ -116,3 +116,12 @@
         .custom-shape-divider-bottom-1627045546 .shape-fill {
             fill: #66fcf1;
         }
+        
+        @media(max-width: 767px) {
+            h1 {
+                font-size: 28px;
+            }
+            p {
+                font-size: 20px;
+            }
+        }
