@@ -43,7 +43,7 @@ body {
 
 .header {
     grid-area: hd;
-    background-image: url(background-header.jpeg);
+    background-image: url(/photos/background-header.jpeg);
 }
 
 .content {
