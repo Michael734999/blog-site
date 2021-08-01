@@ -64,7 +64,7 @@
         margin: 0;
         padding: 0;
         grid-area: hd;
-        background-image: url(/photos/background-header.jpeg);
+        background-image: url("img/background-header.jpeg");
     }
     
     .content {
@@ -142,19 +142,19 @@
     }
     
     #box1 {
-        background-image: url(/photos/blog1.jpeg);
+        background-image: url("img/blog1.jpeg");
     }
     
     #box2 {
-        background-image: url(/photos/blog2.jpeg);
+        background-image: url("img/blog2.jpeg");
     }
     
     #box3 {
-        background-image: url(/photos/blog3.jpeg);
+        background-image: url("img/blog3.jpeg");
     }
     
     #box4 {
-        background-image: url(/photos/blog4.jpeg);
+        background-image: url("img/blog4.jpeg");
     }
     
     .nav {
